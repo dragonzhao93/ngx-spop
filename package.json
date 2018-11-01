@@ -1,0 +1,16 @@
+{
+  "name": "ngx-spop",
+  "version": "0.0.1",
+  "description": "spop",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc ./lib/index.ts --outDir dist --declaration&& tsc index.ts --declaration"
+  },
+  "keywords": [],
+  "author": "dragon_zhao",
+  "license": "MIT",
+  "dependencies": {
+    "dtsmake": "0.0.10",
+    "tern": "^0.22.3"
+  }
+}
