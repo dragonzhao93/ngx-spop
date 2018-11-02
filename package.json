@@ -1,6 +1,6 @@
 {
   "name": "ngx-spop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "spop",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
   "dependencies": {
     "dtsmake": "0.0.10",
     "tern": "^0.22.3"
-  }
+  },
+  "registory": "http://registry.npmjs.org "
 }
